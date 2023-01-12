@@ -16,10 +16,11 @@
     "url": "https://github.com/UMikhail/NodeJS/issues"
   },
   "homepage": "https://github.com/UMikhail/NodeJS#readme",
-  "dependencies": {
-    "eslint": "^8.30.0"
-  },
   "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-react": "^7.32.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
     "prettier": "2.8.1"
   }
 }
